@@ -3,7 +3,7 @@
 <h3>
 
 ```js
-let Stack = {
+let stack = {
     
   front: [ "HTML", "CSS", "JavaScript", "TypeScript"],
   back: [ "PHP", "MYSQL", "Symfony", "NodeJs" ],
