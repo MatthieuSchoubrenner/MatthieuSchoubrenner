@@ -7,7 +7,7 @@ let stack = {
     
   front: [ "HTML", "CSS", "JavaScript", "TypeScript"],
   back: [ "PHP", "MYSQL", "Symfony", "NodeJs" ],
-  devops: [ "Docker", "Nginx" ],  
+  devops: [ "Docker", "Apache" ],  
   tools: [ "GIT", "GitHub", "PhpStorm", "WebStorm", "VSC", "Blender" ],
   misc: [ "Anglais pro", "SCRUM Method" ],
   
