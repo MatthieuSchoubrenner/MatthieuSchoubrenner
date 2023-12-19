@@ -7,10 +7,10 @@ let stack = {
     
   front: [ "HTML/CSS", "JS", "Vue.js" ],
   back: [ "PHP", "Symfony", "NodeJs" ],
-  db: [ "MySQL", "PostgreSQL", "Oracle", "MongoDB" ],
-  devops: [ "Docker", "Apache", "Nginx" ],  
-  tools: [ "GIT", "GitHub","PhpStorm", "WebStorm", "VSC", "Blender" ],
-  misc: [ "Anglais pro", "SCRUM Method" ],
+  db: [ "MySQL", "PostgreSQL", "Oracle", "MongoDB", "MariaDB" ],
+  devops: [ "Docker", "Apache", "Nginx", "CI/CD" ],  
+  tools: [ "GIT", "GitHub", "PhpStorm", "VSC", "Blender" ],
+  misc: [ "Anglais pro", "SCRUM Method", "UML", "Design Thinking" ],
   
 }
 ```
