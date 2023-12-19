@@ -5,10 +5,11 @@
 ```js
 let stack = {
     
-  front: [ "HTML", "CSS", "JavaScript", "TypeScript"],
-  back: [ "PHP", "MYSQL", "Symfony", "NodeJs" ],
-  devops: [ "Docker", "Apache" ],  
-  tools: [ "GIT", "GitHub", "PhpStorm", "WebStorm", "VSC", "Blender" ],
+  front: [ "HTML/CSS", "JS", "Vue.js"],
+  back: [ "PHP", "Symfony", "NodeJs" ],
+  db: ["MYSQL", "PostgreSQL", "Oracle", "MongoDB"],
+  devops: [ "Docker", "Apache", "Nginx" ],  
+  tools: [ "GIT", "GitHub", "PhpStorm", "PhpStorm", "WebStorm", "VSC", "Blender" ],
   misc: [ "Anglais pro", "SCRUM Method" ],
   
 }
@@ -17,5 +18,5 @@ let stack = {
 
 # 📫 Contact me
 <p align="center">
-<a href="https://www.linkedin.com/in/matthieuschoubrenner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/matthieuschoubrenner/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" color="white"/></a>&nbsp;
 </p>
