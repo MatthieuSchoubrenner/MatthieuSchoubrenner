@@ -3,10 +3,10 @@
 <h3>
     
 ```js
-let stack = {
+let skills = {
     
   front: [ "HTML/CSS", "JS", "Vue.js" ],
-  back: [ "PHP", "Symfony", "NodeJs" ],
+  back: [ "PHP", "Symfony", "NodeJs", "Express.js" ],
   db: [ "MySQL", "PostgreSQL", "Oracle", "MongoDB", "MariaDB" ],
   devops: [ "Docker", "Apache", "Nginx", "CI/CD" ],  
   tools: [ "GIT", "GitHub", "PhpStorm", "VSC", "Blender" ],
